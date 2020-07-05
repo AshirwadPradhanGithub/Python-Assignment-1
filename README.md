@@ -1,2 +1,3 @@
 # iNeuron
-## Python Assignments
+## Python Assignment 1
+## Python Assignment 2
